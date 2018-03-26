@@ -8,8 +8,10 @@ var nodeList = document
 // ES5
 nodeList = Array.from(nodeList);
 // ES6
-nodeList = [...nodeList]; 
+nodeList = [...nodeList];
+
 // http://youtube.com/codetap
 // http://facebook.com/codetap
+// http://codetap.io/info
 
 
