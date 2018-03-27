@@ -8,3 +8,6 @@ const info = {
 
 const message = `${person.name} joined ${info.company}. ${person.pronoun} ${info.action} building websites and got an ${info.adjective} job`
 // "John joined CodeTap. He mastered building websites and got an amazing job"
+
+
+
