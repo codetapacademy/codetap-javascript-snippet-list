@@ -1,0 +1,24 @@
+{
+  "name": "@property/codetap-javascript-snippet-list",
+  "version": "1.0.0",
+  "description": "",
+  "main": "array-matching.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codetapio/codetap-javascript-snippet-list.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/codetapio/codetap-javascript-snippet-list/issues"
+  },
+  "homepage": "https://github.com/codetapio/codetap-javascript-snippet-list#readme",
+  "dependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-env": "^1.6.1"
+  }
+}
