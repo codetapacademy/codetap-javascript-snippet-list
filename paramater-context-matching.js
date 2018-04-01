@@ -4,7 +4,7 @@ const a = ([name, val]) => console.log(name, val);
 const b = ({name: n, val: v}) => console.log(n, v);
 const c = ({name, val}) => console.log(name, val);
 a(['CodeTap', 36]); // CodeTap 36
-b({name: 'Marian', val: 36}); // 3 Marian 36
+b({name: 'Marian', val: 36}); // Marian 36
 c({name: 'Maya', val: 3}); // Maya 3
 // ES5
 var x = function(arg) {
@@ -23,5 +23,5 @@ var z = function(arg) {
     console.log(name, val);
 }
 x(['Marian', 36]); // Marian 36
-y({name: 'Code', val: 25}); // 3 Code 25
+y({name: 'Code', val: 25}); // Code 25
 z({name: 'Tap', val: 2}); // Tap 2
