@@ -10,11 +10,11 @@ console.log(first, last, get, buy)
 // ES5
 var info = {brand: 'CodeTap'};
 var brand = info.brand;
-var type = info.type || 'Eductation';
+var type = info.type || 'Education';
 var how = info.how || 'through';
 var other = ['boosts'];
 var action = other[0];
 var what = other[1] || 'career';
 var whos = other[2] || 'your';
 console.log(brand, action, whos, what, how, type)
-// CodeTap boosts your career through Eductation
+// CodeTap boosts your career through Education
